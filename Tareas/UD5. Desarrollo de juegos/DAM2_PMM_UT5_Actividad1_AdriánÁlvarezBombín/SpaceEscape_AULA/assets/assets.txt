@@ -1,0 +1,17 @@
+images/bala.jpg
+images/cerdo.png
+images/libgdx.png
+images/noche.jpg
+images/red.png
+images/space.jpg
+music/angry-birds.mp3
+music/battle.mp3
+skins/default.fnt
+skins/default.png
+skins/uiskin.atlas
+skins/uiskin.json
+skins/uiskin.png
+sounds/laser-cannon.mp3
+sounds/muerteCerdo.mp3
+sounds/piuw.mp3
+sounds/tension-drones.mp3
