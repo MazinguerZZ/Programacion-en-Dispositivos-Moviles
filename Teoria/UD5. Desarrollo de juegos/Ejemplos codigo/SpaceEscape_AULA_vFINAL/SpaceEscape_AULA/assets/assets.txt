@@ -1,0 +1,14 @@
+images/asteroid_texture.png
+images/libgdx.png
+images/player_texture.png
+images/space_escape.png
+music/space-adventure.mp3
+music/space-simple.mp3
+skins/default.fnt
+skins/default.png
+skins/uiskin.atlas
+skins/uiskin.json
+skins/uiskin.png
+sounds/laser-cannon.mp3
+sounds/nuclear-explosion.mp3
+sounds/tension-drones.mp3
