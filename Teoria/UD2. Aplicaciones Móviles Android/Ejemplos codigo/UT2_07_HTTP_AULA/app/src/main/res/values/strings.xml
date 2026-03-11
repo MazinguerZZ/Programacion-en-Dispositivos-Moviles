@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UT2_07_HTTP_AULA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enviar">Enviar</string>
+    <string name="descargar">Descargar</string>
+</resources>
