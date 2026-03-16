@@ -1,3 +1,7 @@
-## Programacion en Dispositivos Moviles
+# Programacion Multimedia y Dispositivos Móviles
 
-Aqui subo mis tareas de Android Studio
+Aqui subire todo lo que este relacionado con la asignatura de Programacion Multimedia y Dispositivos Móviles:
+Tareas, 
+Proyectos, 
+y muchas mas cosas.
+
